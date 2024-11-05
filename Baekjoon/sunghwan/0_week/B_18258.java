@@ -1,5 +1,3 @@
-package IntStudy;
-
 import java.io.*;
 import java.util.Deque;
 import java.util.LinkedList;
