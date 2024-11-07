@@ -10,8 +10,8 @@ int main() {
     map<string, string> ss;
     int N, M;
     cin >> N >> M;
-    string input;
     
+    string input;
     for (int i = 1; i <= N; i++) {
         cin >> input;
         ss[input] = to_string(i);
