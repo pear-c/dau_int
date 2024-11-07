@@ -8,11 +8,10 @@ int main() {
     cin.tie(NULL);
 
     map<string, string> ss;
-
     int N, M;
     cin >> N >> M;
-
     string input;
+    
     for (int i = 1; i <= N; i++) {
         cin >> input;
         ss[input] = to_string(i);
