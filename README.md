@@ -19,7 +19,7 @@
 
 ## 파일 및 폴더 구조
 - Baekjoon/{이름}/{주차}/{문제 번호}.{파일 확장자}
-  - Baekjoon/heemang/1_week/{123}.java
+  - Baekjoon/heemang/1_week/123.java
 
 ## 진행
 
