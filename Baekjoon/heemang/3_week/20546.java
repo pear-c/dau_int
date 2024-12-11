@@ -48,7 +48,7 @@ public class Main {
                 buyCount = 0;
             }
         }
-        result[1] = cash + buyCount * costs[DAYS - 1]; // 준현이의 가치
+        result[1] = cash + buyCount * costs[DAYS - 1]; // 성민이의 가치
 
         if (result[0] == result[1]) {
             System.out.println("SAMESAME");
