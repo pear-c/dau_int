@@ -43,6 +43,7 @@ int main() {
     hand['n'] = true;
     hand['m'] = true;
 
+    // 각 문자별 좌표
     map<char, Position> munPos;
     munPos['q'] = {0, 0};
     munPos['w'] = {0, 1};
