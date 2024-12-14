@@ -28,5 +28,7 @@
 | 1주차 | 자료구조, 자료구조2, 트리 | [큐 2](https://www.acmicpc.net/problem/18258) | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) |  -  |  -  | 2024. 11. 08(금) | 이희망, 배성환, 김성재 | 완료
 | 2주차 | 수학, 탐욕법, 동적계획법1, 동적계획법2, 투포인터  | [LCM](https://www.acmicpc.net/problem/5347) | [거스름돈](https://www.acmicpc.net/problem/14916) | [다리 놓기](https://www.acmicpc.net/problem/1010) | [주지수](https://www.acmicpc.net/problem/15724) | [배열 합치기](https://www.acmicpc.net/problem/11728) | 2024. 11. 15(금) | 이희망, 배성환, 김성재 | 완료
 | 3주차 | 구현, 그래프 탐색, 완전탐색, 시뮬레이션, 이분탐색 | [기적의 매매법](https://www.acmicpc.net/problem/20546) | [바이러스](https://www.acmicpc.net/problem/2606) | [큰 수 구성하기](https://www.acmicpc.net/problem/18511) | [ZOAC 3](https://www.acmicpc.net/problem/20436) | [수들의 합](https://www.acmicpc.net/problem/1789) | 2024. 12. 13(금) | 이희망, 배성환, 김성재, 박지원 | 완료
+| 4주차 | 백트래킹, 분할정복, 누적 합, 문자열, 최단거리 | [N과 M (1)](https://www.acmicpc.net/problem/15649) | [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | [귀찮아 (SIB)](https://www.acmicpc.net/problem/14929) | [부분 문자열](https://www.acmicpc.net/problem/6550) | [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | 2024. 12. 20(금) | - | -
+
 
 
